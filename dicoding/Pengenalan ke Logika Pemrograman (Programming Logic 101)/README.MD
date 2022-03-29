@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/dicoding/Pengenalan%20ke%20Logika%20Pemrograman%20(Programming%20Logic%20101)/dicoding-Pengenalan%20ke%20Logika%20Pemrograman%20(Programming%20Logic%20101)_page-0001.jpg)
