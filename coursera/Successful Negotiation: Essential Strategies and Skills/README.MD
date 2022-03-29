@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Successful%20Negotiation%3A%20Essential%20Strategies%20and%20Skills/Coursera-Successful%20Negotiation_%20Essential%20Strategies%20and%20Skills_page-0001.jpg)
