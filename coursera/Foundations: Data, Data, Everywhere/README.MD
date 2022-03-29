@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Foundations%3A%20Data%2C%20Data%2C%20Everywhere/Coursera-Foundations_%20Data%2C%20Data%2C%20Everywhere_page-0001.jpg)

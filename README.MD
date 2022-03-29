@@ -31,4 +31,5 @@
 |5|[Converting Challenges into Opportunities](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Converting%20Challenges%20into%20Opportunities)|[Click Here](https://coursera.org/share/28bff4e3dc5195738999279186b21a63)|
 |6|[Dino 101: Dinosaur Paleobiology](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Dino%20101:%20Dinosaur%20Paleobiology)|[Click Here](https://coursera.org/share/1ef5e9d6b39db6fee5c972fadc215abc)|
 |7|[Communication Strategies for a Virtual Age](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Communication%20Strategies%20for%20a%20Virtual%20Age)|[Click Here](https://coursera.org/share/e144e390475debaef863053b53627ebd)|
+|8|[Foundations: Data, Data, Everywhere](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Foundations:%20Data%2C%20Data%2C%20Everywhere)|[Click Here](https://coursera.org/share/7c7815a0e4040e8da316eab656b7ea66)|
 
