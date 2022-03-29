@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Big%20Data%20Integration%20and%20Processing/Coursera-Big%20Data%20Integration%20and%20Processing_page-0001.jpg)
