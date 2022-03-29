@@ -1,0 +1,2 @@
+- Link: https://www.dicoding.com/academies/302
+- Serti: https://www.dicoding.com/certificates/GRX5KVE9VZ0M
