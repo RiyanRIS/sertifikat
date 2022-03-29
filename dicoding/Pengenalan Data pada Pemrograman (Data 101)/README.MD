@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/dicoding/Pengenalan%20Data%20pada%20Pemrograman%20(Data%20101)/dicoding-Pengenalan%20Data%20pada%20Pemrograman%20(Data%20101)_page-0001.jpg)
