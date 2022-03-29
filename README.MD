@@ -24,6 +24,6 @@
 
 | NO | COURSE | CERTIFICATE |
 |-----|-----|----|
-|1|Computer Vision Basics|[Click Here](https://coursera.org/share/48d863cb250038089b885f9c8498acd8)|
+|1|[Computer Vision Basics](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Computer%20Vision%20Basics)|[Click Here](https://coursera.org/share/48d863cb250038089b885f9c8498acd8)|
 
 

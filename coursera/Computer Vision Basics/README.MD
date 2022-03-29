@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Computer%20Vision%20Basics/Coursera-Computer%20Vision%20Basics_page-0001.jpg)
