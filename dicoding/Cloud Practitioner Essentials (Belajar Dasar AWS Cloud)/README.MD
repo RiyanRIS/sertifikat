@@ -1,1 +1,1 @@
-![]()
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/dicoding/Cloud%20Practitioner%20Essentials%20(Belajar%20Dasar%20AWS%20Cloud)/dicoding-Cloud%20Practitioner%20Essentials%20(Belajar%20Dasar%20AWS%20Cloud)_page-0001.jpg)
