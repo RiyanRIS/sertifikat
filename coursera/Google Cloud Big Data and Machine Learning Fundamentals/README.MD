@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Google%20Cloud%20Big%20Data%20and%20Machine%20Learning%20Fundamentals/Coursera-Google%20Cloud%20Big%20Data%20and%20Machine%20Learning%20_page-0001.jpg)
