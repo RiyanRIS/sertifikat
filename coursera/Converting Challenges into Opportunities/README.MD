@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Converting%20Challenges%20into%20Opportunities/Coursera-Converting%20Challenges%20into%20Opportunities_page-0001.jpg)
