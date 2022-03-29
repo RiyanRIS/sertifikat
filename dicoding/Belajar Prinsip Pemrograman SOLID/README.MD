@@ -1,1 +1,1 @@
-![]()
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/dicoding/Belajar%20Prinsip%20Pemrograman%20SOLID/dicoding-Belajar%20Prinsip%20Pemrograman%20SOLID_page-0001.jpg)
