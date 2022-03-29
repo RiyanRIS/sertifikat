@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/AI%20For%20Everyone/Coursera-AI%20For%20Everyone_page-0001.jpg)

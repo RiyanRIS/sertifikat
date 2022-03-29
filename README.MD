@@ -34,13 +34,14 @@
 |8|[Foundations: Data, Data, Everywhere](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Foundations:%20Data%2C%20Data%2C%20Everywhere)|[Click Here](https://coursera.org/share/7c7815a0e4040e8da316eab656b7ea66)|
 |9|[Successful Negotiation: Essential Strategies and Skills](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Successful%20Negotiation:%20Essential%20Strategies%20and%20Skills)|[Click Here](https://coursera.org/share/259881d3dfc7b480b3365ff2b744fdec)|
 |10|[How to Write a Resume (Project-Centered Course)](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/How%20to%20Write%20a%20Resume%20(Project-Centered%20Course))|[Click Here](https://coursera.org/share/2b145bd3998768923cee19411c4baf87)|
-|11|[Graph Analytics for Big Data](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Graph%20Analytics%20for%20Big%20Data))|[Click Here](https://coursera.org/share/65b5bbdea3ea5b5b96bad4a74e9d8ac3)|
+|11|[Graph Analytics for Big Data](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Graph%20Analytics%20for%20Big%20Data)|[Click Here](https://coursera.org/share/65b5bbdea3ea5b5b96bad4a74e9d8ac3)|
 |12|[The Science of Success: What Researchers Know that You Should Know](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/The%20Science%20of%20Success:%20What%20Researchers%20Know%20that%20You%20Should%20Know))|[Click Here](https://coursera.org/share/8715a995f785a92b34942055f472c900)|
-|13|[Introduction to Personal Branding](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Introduction%20to%20Personal%20Branding))|[Click Here](https://coursera.org/share/94c390ac2530b82c75189d5e8a4ab9c5)|
-|14|[Machine Learning With Big Data](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Machine%20Learning%20With%20Big%20Data))|[Click Here](https://coursera.org/share/499ce2ddde3412cd7571ce311ccd7b98)|
+|13|[Introduction to Personal Branding](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Introduction%20to%20Personal%20Branding)|[Click Here](https://coursera.org/share/94c390ac2530b82c75189d5e8a4ab9c5)|
+|14|[Machine Learning With Big Data](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Machine%20Learning%20With%20Big%20Data)|[Click Here](https://coursera.org/share/499ce2ddde3412cd7571ce311ccd7b98)|
 |15|[Google Cloud Big Data and Machine Learning Fundamentals](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Google%20Cloud%20Big%20Data%20and%20Machine%20Learning%20Fundamentals))|[Click Here](https://coursera.org/share/9326e6ac911cb23e46b68d58f2a798d6)|
-|16|[Big Data Integration and Processing](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Big%20Data%20Integration%20and%20Processing))|[Click Here](https://coursera.org/share/072da5c47b5c9ffe3a51db4c3e78f31a)|
+|16|[Big Data Integration and Processing](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Big%20Data%20Integration%20and%20Processing)|[Click Here](https://coursera.org/share/072da5c47b5c9ffe3a51db4c3e78f31a)|
 |17|[Introduction to Cloud Identity](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Introduction%20to%20Cloud%20Identity))|[Click Here](https://coursera.org/share/310a16886e60ff4a4cdfffe6cec42176)|
-|18|[Cloud Computing Basics (Cloud 101)](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Cloud%20Computing%20Basics%20(Cloud%20101)))|[Click Here](https://coursera.org/share/f5d7faaf3259f67399cb902a90480c04)|
+|18|[Cloud Computing Basics (Cloud 101)](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Cloud%20Computing%20Basics%20(Cloud%20101))|[Click Here](https://coursera.org/share/f5d7faaf3259f67399cb902a90480c04)|
+|19|[AI For Everyone](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/AI%20For%20Everyone)|[Click Here](https://coursera.org/share/e43a6005c8ca767d268a6c8409463440)|
 
 
