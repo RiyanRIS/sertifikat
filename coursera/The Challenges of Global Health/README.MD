@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/The%20Challenges%20of%20Global%20Health/Coursera-The%20Challenges%20of%20Global%20Health_page-0001.jpg)
