@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/The%20Strategy%20of%20Content%20Marketing/Coursera-The%20Strategy%20of%20Content%20Marketing_page-0001.jpg)

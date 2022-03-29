@@ -25,5 +25,5 @@
 | NO | COURSE | CERTIFICATE |
 |-----|-----|----|
 |1|[Computer Vision Basics](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Computer%20Vision%20Basics)|[Click Here](https://coursera.org/share/48d863cb250038089b885f9c8498acd8)|
-
+|2|[The Strategy of Content Marketing](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/The%20Strategy%20of%20Content%20Marketing)|[Click Here](https://coursera.org/share/823128be6b66fc224367bed8cacbf4aa)|
 
