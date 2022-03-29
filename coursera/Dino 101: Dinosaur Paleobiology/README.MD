@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Dino%20101%3A%20Dinosaur%20Paleobiology/Coursera-Dino%20101_%20Dinosaur%20Paleobiology_page-0001.jpg)

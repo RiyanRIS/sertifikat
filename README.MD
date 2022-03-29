@@ -29,4 +29,5 @@
 |3|[Marketing Analytics](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Marketing%20Analytics)|[Click Here](https://coursera.org/share/2e1afefa1f83b296598c5d78b02294a9)|
 |4|[The Challenges of Global Health](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/The%20Challenges%20of%20Global%20Health)|[Click Here](https://coursera.org/share/a2f63d8dbba650304d9f8abb7645223a)|
 |5|[Converting Challenges into Opportunities](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Converting%20Challenges%20into%20Opportunities)|[Click Here](https://coursera.org/share/28bff4e3dc5195738999279186b21a63)|
+|6|[Dino 101: Dinosaur Paleobiology](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Dino%20101:%20Dinosaur%20Paleobiology)|[Click Here](https://coursera.org/share/1ef5e9d6b39db6fee5c972fadc215abc)|
 
