@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Cloud%20Computing%20Basics%20(Cloud%20101)/Coursera-Cloud%20Computing%20Basics%20(Cloud%20101)_page-0001.jpg)
