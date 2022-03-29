@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Communication%20Strategies%20for%20a%20Virtual%20Age/Coursera-Communication%20Strategies%20for%20a%20Virtual%20Age_page-0001.jpg)
