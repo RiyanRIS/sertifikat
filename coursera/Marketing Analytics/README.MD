@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Marketing%20Analytics/Coursera-Marketing%20Analytics_page-0001.jpg)
