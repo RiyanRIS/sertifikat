@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Introduction%20to%20Cloud%20Identity/Coursera-Introduction%20to%20Cloud%20Identity_page-0001.jpg)
