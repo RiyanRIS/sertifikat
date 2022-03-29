@@ -1,2 +1,1 @@
-- Link: https://www.dicoding.com/academies/317
-- Serti: https://www.dicoding.com/certificates/MEPJL4GKLZ3V
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/dicoding/Belajar%20Dasar%20Git%20dengan%20GitHub/dicoding-Belajar%20Dasar%20Git%20dengan%20GitHub_page-0001.jpg)
