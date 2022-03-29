@@ -1,2 +1,1 @@
-- Link: https://www.dicoding.com/academies/337
-- Serti: https://www.dicoding.com/certificates/ERZR4RJWNZYV
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/dicoding/Belajar%20Dasar%20Google%20Cloud/dicoding-Belajar%20Dasar%20Google%20Cloud_page-0001.jpg)
