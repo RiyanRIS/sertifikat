@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Linux%20Tools%20for%20Developers/Coursera-Linux%20Tools%20for%20Developers_page-0001.jpg)
