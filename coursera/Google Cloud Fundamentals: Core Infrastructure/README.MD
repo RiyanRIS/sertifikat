@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Google%20Cloud%20Fundamentals%3A%20Core%20Infrastructure/Coursera-Google%20Cloud%20Fundamentals_%20Core%20Infrastructure_page-0001.jpg)
