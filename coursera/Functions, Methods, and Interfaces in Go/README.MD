@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Functions%2C%20Methods%2C%20and%20Interfaces%20in%20Go/Coursera-Functions%2C%20Methods%2C%20and%20Interfaces%20in%20Go_page-0001.jpg)
