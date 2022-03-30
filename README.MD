@@ -65,7 +65,7 @@
 |39|[Python Data Structures](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Python%20Data%20Structures)|[Click Here](https://coursera.org/share/e96b95ee35a2d19d2a2f4c3530c37650)|
 |40|[Programming for Everybody (Getting Started with Python)](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python))|[Click Here](https://coursera.org/share/22089190817a87535b879c575e03dbc5)|
 |41|[Google Cloud Fundamentals: Core Infrastructure](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Google%20Cloud%20Fundamentals:%20Core%20Infrastructure)|[Click Here](https://coursera.org/share/60cf7741b546cac0f831dd037208c807)|
-
+|42|[Getting Started with Go](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Getting%20Started%20with%20Go)|[Click Here](https://coursera.org/share/c379b44e30e6cc57a2e3d62fe6a8a807)|
 
 
 
