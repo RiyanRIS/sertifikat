@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Introduction%20to%20Structured%20Query%20Language%20(SQL)/Coursera-Introduction%20to%20Structured%20Query%20Language%20(SQL)_page-0001.jpg)
