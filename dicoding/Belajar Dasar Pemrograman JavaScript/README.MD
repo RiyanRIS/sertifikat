@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/dicoding/Belajar%20Dasar%20Pemrograman%20Web/dicoding-Belajar%20Dasar%20Pemrograman%20Web_pages-to-jpg-0001.jpg)
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/dicoding/Belajar%20Dasar%20Pemrograman%20JavaScript/sertifikat-Belajar%20Dasar%20Pemrograman%20JavaScript_page-0001.jpg)
