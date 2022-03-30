@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Big%20Data%20Modeling%20and%20Management%20Systems/Coursera-Big%20Data%20Modeling%20and%20Management%20Systems_page-0001.jpg)
