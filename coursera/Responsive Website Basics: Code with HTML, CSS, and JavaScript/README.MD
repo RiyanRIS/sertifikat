@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Responsive%20Website%20Basics%3A%20Code%20with%20HTML%2C%20CSS%2C%20and%20JavaScript/Coursera-Responsive%20Website%20Basics_%20Code%20with%20HTML%2C%20CSS%2C%20and%20JavaScript_page-0001.jpg)
