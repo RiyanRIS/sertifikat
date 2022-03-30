@@ -1,6 +1,7 @@
 # Online Course Learning
 
 ## Dicoding
+[![dicoding](https://user-images.githubusercontent.com/28080686/160806331-88a00c43-d314-4ae0-80da-18a63e316fbd.png)](https://dicoding.com)
 
 | NO | NAMA KELAS | LULUS PADA | SERTIFIKAT DICODING |
 |-----|-----|-----|-------|
@@ -15,6 +16,7 @@
 
 
 ## Coursera
+[![coursera](https://user-images.githubusercontent.com/28080686/160806336-6dfe9e28-23e7-481a-88e8-bfaa2ef34281.png)](https://www.coursera.org/)
 
 ### My Specializations
 
