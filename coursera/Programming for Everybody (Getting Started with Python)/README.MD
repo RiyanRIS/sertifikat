@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python)/Coursera-Programming%20for%20Everybody%20(Getting%20Started%20with%20Python)_page-0001.jpg)
