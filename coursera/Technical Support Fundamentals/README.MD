@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Technical%20Support%20Fundamentals/Coursera-Technical%20Support%20Fundamentals_page-0001.jpg)
