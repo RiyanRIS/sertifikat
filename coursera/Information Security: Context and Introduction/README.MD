@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Information%20Security%3A%20Context%20and%20Introduction/Coursera-Information%20Security_%20Context%20and%20Introduction_page-0001.jpg)

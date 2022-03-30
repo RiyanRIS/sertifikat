@@ -70,6 +70,9 @@
 |44|[COVID-19 Contact Tracing](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/COVID-19%20Contact%20Tracing)|[Click Here](https://coursera.org/share/4944b389bc6f3c910bc4a1315523496a)|
 |45|[Introduction to Git and GitHub](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Introduction%20to%20Git%20and%20GitHub)|[Click Here](https://coursera.org/share/d7e2ef711f3e6380faeda9a035f7cb88)|
 |46|[The Bits and Bytes of Computer Networking](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/The%20Bits%20and%20Bytes%20of%20Computer%20Networking)|[Click Here](https://coursera.org/share/c6ad8c7b0480b3d032d170014d21b728)|
+|47|[Information Security: Context and Introduction](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Information%20Security:%20Context%20and%20Introduction)|[Click Here](https://coursera.org/share/69c55ecd87de5af6d91f918d607b762d)|
+
+
 
 
 
