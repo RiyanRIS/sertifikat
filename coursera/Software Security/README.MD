@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Software%20Security/Coursera-Software%20Security_page-0001.jpg)
