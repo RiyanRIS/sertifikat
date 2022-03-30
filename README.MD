@@ -55,7 +55,7 @@
 |29|[Hardware Security](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Hardware%20Security)|[Click Here](https://coursera.org/share/25f4fbadbbf95526c893a7f8fef128f9)|
 |30|[Usable Security](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Usable%20Security)|[Click Here](https://coursera.org/share/095fcd6e76f0ae951960e52593db4a04)|
 |31|[Building Web Applications in PHP](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Building%20Web%20Applications%20in%20PHP)|[Click Here](https://coursera.org/share/dc0e005dfbf3ba195ac19979e4c7871e)|
-
+|32|[Using Python to Access Web Data](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Using%20Python%20to%20Access%20Web%20Data)|[Click Here](https://coursera.org/share/bd901b3a110b31ab45d4844e8762d1ac)|
 
 
 

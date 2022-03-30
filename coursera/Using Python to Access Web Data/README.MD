@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Using%20Python%20to%20Access%20Web%20Data/Coursera-Using%20Python%20to%20Access%20Web%20Data_page-0001.jpg)
