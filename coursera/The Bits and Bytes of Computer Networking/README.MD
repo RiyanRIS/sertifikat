@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/The%20Bits%20and%20Bytes%20of%20Computer%20Networking/Coursera-The%20Bits%20and%20Bytes%20of%20Computer%20Networking_page-0001.jpg)
