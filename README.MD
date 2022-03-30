@@ -45,5 +45,5 @@
 |19|[AI For Everyone](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/AI%20For%20Everyone)|[Click Here](https://coursera.org/share/e43a6005c8ca767d268a6c8409463440)|
 |20|[Big Data Modeling and Management Systems](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Big%20Data%20Modeling%20and%20Management%20Systems)|[Click Here](https://coursera.org/share/e5a90d64c0cf8cfa290bcb95ef0ebbf9)|
 |21|[Building Database Applications in PHP](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Building%20Database%20Applications%20in%20PHP)|[Click Here](https://coursera.org/share/f7c67e8a0285356b0e09afd4a2fd6eda)|
-
+|22|[JavaScript, jQuery, and JSON](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/JavaScript%2C%20jQuery%2C%20and%20JSON)|[Click Here](https://coursera.org/share/4ed973383b15f7600c1dc23efbf545ee)|
 
