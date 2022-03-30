@@ -68,4 +68,8 @@
 |42|[Getting Started with Go](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Getting%20Started%20with%20Go)|[Click Here](https://coursera.org/share/c379b44e30e6cc57a2e3d62fe6a8a807)|
 |43|[Building a Calculator using C# in Visual Studio](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Building%20a%20Calculator%20using%20C%23%20in%20Visual%20Studio)|[Click Here](https://coursera.org/share/4494988727990941c2e17f66be1e7190)|
 |44|[COVID-19 Contact Tracing](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/COVID-19%20Contact%20Tracing)|[Click Here](https://coursera.org/share/4944b389bc6f3c910bc4a1315523496a)|
+|45|[Introduction to Git and GitHub](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Introduction%20to%20Git%20and%20GitHub)|[Click Here](https://coursera.org/share/d7e2ef711f3e6380faeda9a035f7cb88)|
+
+
+
 
