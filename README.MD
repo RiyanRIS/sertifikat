@@ -50,6 +50,6 @@
 |24|[Responsive Website Basics: Code with HTML, CSS, and JavaScript](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Responsive%20Website%20Basics:%20Code%20with%20HTML%2C%20CSS%2C%20and%20JavaScript)|[Click Here](https://coursera.org/share/ba8113941b962273310b90af91c9ded4)|
 |25|[Cryptography](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Cryptography)|[Click Here](https://coursera.org/share/2166bee0bbdbfd1e5bbe751eada9de95)|
 |26|[Interfacing with the Raspberry Pi](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Interfacing%20with%20the%20Raspberry%20Pi)|[Click Here](https://coursera.org/share/f0bc3c022d2857f3c19a5feb0203128a)|
-
-
+|27|[Software Security](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Software%20Security)|[Click Here](https://coursera.org/share/8fa0d2630352fa51db70f0c6e05d3cc3)|
+|28|[Using Databases with Python](https://github.com/RiyanRIS/sertifikat/tree/master/coursera/Using%20Databases%20with%20Python)|[Click Here](https://coursera.org/share/683539715880060c7699f0b8522f13af)|
 

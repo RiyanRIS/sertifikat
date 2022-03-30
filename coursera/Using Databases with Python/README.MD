@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Using%20Databases%20with%20Python/Coursera-Using%20Databases%20with%20Python_page-0001.jpg)
