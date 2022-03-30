@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Python%20Data%20Structures/Coursera-Python%20Data%20Structures_page-0001.jpg)
