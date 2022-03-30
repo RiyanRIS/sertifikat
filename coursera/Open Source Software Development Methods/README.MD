@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Open%20Source%20Software%20Development%20Methods/Coursera-Open%20Source%20Software%20Development%20Methods_page-0001.jpg)
