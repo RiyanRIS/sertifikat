@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Introduction%20to%20the%20Internet%20of%20Things%20and%20Embedded%20Systems/Coursera-Introduction%20to%20the%20Internet%20of%20Things%20and%20Embedded%20Systems_page-0001.jpg)
