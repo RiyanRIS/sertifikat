@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/coursera/Introduction%20to%20Big%20Data/Coursera-Introduction%20to%20Big%20Data_page-0001.jpg)
