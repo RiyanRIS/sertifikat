@@ -1,6 +1,6 @@
 # Online Course Learning
 
-## Dicoding
+<!-- ## Dicoding -->
 [![dicoding](https://user-images.githubusercontent.com/28080686/160808896-22db8e9d-d449-4051-8e7b-96d7c67ccb7d.png)](https://dicoding.com)
 
 | NO | NAMA KELAS | LULUS PADA | SERTIFIKAT DICODING |
@@ -15,7 +15,7 @@
 |8|[Belajar Prinsip Pemrograman SOLID](https://github.com/RiyanRIS/sertifikat/tree/master/dicoding/Belajar%20Prinsip%20Pemrograman%20SOLID)|Mar 26, 2022|[Klik Disini](https://www.dicoding.com/certificates/QLZ91J882P5D)|
 
 
-## Coursera
+<!-- ## Coursera -->
 [![coursera](https://user-images.githubusercontent.com/28080686/160808889-dab10c62-0560-4c75-b0b6-cc17205844e8.png)](https://www.coursera.org/)
 
 ### My Specializations
