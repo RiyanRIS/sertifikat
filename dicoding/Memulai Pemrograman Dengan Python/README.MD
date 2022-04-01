@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/dicoding/Memulai%20Pemrograman%20Dengan%20Python/dicoding-Memulai%20Pemrograman%20Dengan%20Python_page-0001.jpg)

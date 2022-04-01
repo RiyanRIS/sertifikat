@@ -15,6 +15,7 @@
 |8|[Belajar Prinsip Pemrograman SOLID](https://github.com/RiyanRIS/sertifikat/tree/master/dicoding/Belajar%20Prinsip%20Pemrograman%20SOLID)|Mar 26, 2022|[Klik Disini](https://www.dicoding.com/certificates/QLZ91J882P5D)|
 |9|[Belajar Dasar Pemrograman JavaScript](https://github.com/RiyanRIS/sertifikat/tree/master/dicoding/Belajar%20Dasar%20Pemrograman%20JavaScript)|Mar 30, 2022|[Klik Disini](https://www.dicoding.com/certificates/98XWK357LXM3)|
 |10|[Belajar Dasar Visualisasi Data](https://github.com/RiyanRIS/sertifikat/tree/master/dicoding/Belajar%20Dasar%20Visualisasi%20Data)|Apr 1, 2022|[Klik Disini](https://www.dicoding.com/certificates/4EXG6W82GZRL)|
+|11|[Memulai Pemrograman Dengan Python](https://github.com/RiyanRIS/sertifikat/tree/master/dicoding/Memulai%20Pemrograman%20Dengan%20Python)|Apr 1, 2022|[Klik Disini](https://www.dicoding.com/certificates/07Z652MY2XQR)|
 
 ##
 ##
