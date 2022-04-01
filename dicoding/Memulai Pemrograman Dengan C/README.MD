@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/dicoding/Memulai%20Pemrograman%20Dengan%20C/dicoding-Memulai%20Pemrograman%20Dengan%20C_page-0001.jpg)
