@@ -11,3 +11,4 @@
 |7|[Meniti Karier sebagai Software Developer](https://github.com/RiyanRIS/sertifikat/tree/master/dicoding/Meniti%20Karier%20sebagai%20Software%20Developer)|Mar 21, 2022|[Klik Disini](https://www.dicoding.com/certificates/JLX13MQG6P72)|
 |8|[Belajar Prinsip Pemrograman SOLID](https://github.com/RiyanRIS/sertifikat/tree/master/dicoding/Belajar%20Prinsip%20Pemrograman%20SOLID)|Mar 26, 2022|[Klik Disini](https://www.dicoding.com/certificates/QLZ91J882P5D)|
 |9|[Belajar Dasar Pemrograman JavaScript](https://github.com/RiyanRIS/sertifikat/tree/master/dicoding/Belajar%20Dasar%20Pemrograman%20JavaScript)|Mar 30, 2022|[Klik Disini](https://www.dicoding.com/certificates/98XWK357LXM3)|
+|10|[Belajar Dasar Visualisasi Data](https://github.com/RiyanRIS/sertifikat/tree/master/dicoding/Belajar%20Dasar%20Visualisasi%20Data)|Apr 1, 2022|[Klik Disini](https://www.dicoding.com/certificates/4EXG6W82GZRL)|
