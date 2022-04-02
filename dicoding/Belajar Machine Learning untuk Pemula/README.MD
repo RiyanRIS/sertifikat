@@ -1,0 +1,1 @@
+![](https://raw.githubusercontent.com/RiyanRIS/sertifikat/master/dicoding/Belajar%20Machine%20Learning%20untuk%20Pemula/dicoding-Belajar%20Machine%20Learning%20untuk%20Pemula_page-0001.jpg)
